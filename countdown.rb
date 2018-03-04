@@ -6,7 +6,7 @@ def countdown(seconds)
     seconds -= 1
   end
   return "HAPPY NEW YEAR!"
-  
+
 end
 
 
